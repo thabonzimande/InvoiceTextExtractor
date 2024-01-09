@@ -1,7 +1,7 @@
 # InvoiceTextExtractor
 "The first step in Automating the Accounts Payable Workflow"
 - A simple OCR model designed to detect and extract text from an image or PDF.
-
+[refer to OCR_Notebook.ipynb for detailed code :)]
 
 ![inv141761](https://github.com/thabonzimande/InvoiceTextExtractor/assets/131514260/95e4bdf1-b373-4db4-9851-54a1be25fd10) 
 ![6166e0bba7c03a0e4a4b8758_Flow%20of%20OCR%20invoice%20processing.jpg]
